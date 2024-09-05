@@ -1,4 +1,4 @@
-Hey there! I'm Noam Tarshish, a Third-year Software and Information Systems Engineering student at Ben-Gurion University (BGU). 🎓 Welcome to my GitHub repository, where I'm passionate about coding and Cyber Security and building various projects in different programming languages! 💻
+Hey there! I'm Noam Tarshish, a Fourth-year B.Sc. & First-year M.Sc. Software and Information Systems Engineering student at Ben-Gurion University (BGU). 🎓 Welcome to my GitHub repository, where I'm passionate about coding and Cyber Security and building various projects in different programming languages! 💻
 
 Currently, I'm working on expanding my programming and Cyber Security skills and exploring exciting projects. I believe that continuous learning and collaboration are essential, and GitHub provides the perfect platform for sharing my progress with the community.
 
