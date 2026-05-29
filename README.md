@@ -15,7 +15,7 @@ Currently, I work as a **Security & AI Researcher in collaboration with CBG & Bo
 
 ## Publications
 
-📄 First author of multiple peer-reviewed research papers, including:
+First author of multiple peer-reviewed research papers, including:
 
 * **ATMoCloud: Agentic Threat Modeling Framework for Cloud-based Applications**
   Accepted at **IEEE ICWS 2026** (CORE A-ranked conference)
