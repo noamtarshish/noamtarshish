@@ -1,14 +1,37 @@
-Hey there! I'm Noam Tarshish, M.Sc. Software and Information Systems Engineering student at Ben-Gurion University (BGU) and Security & AI Researcher. 🎓 Welcome to my GitHub repository, where I'm passionate about AI and Cyber Security and building various projects in different programming languages! 💻
+# Hi there 👋
 
-Currently, I'm working on expanding my programming and Cyber Security skills and exploring exciting projects. I believe that continuous learning and collaboration are essential, and GitHub provides the perfect platform for sharing my progress with the community.
+I'm **Noam Tarshish**, a Security Researcher and M.Sc. candidate in Software and Information Systems Engineering at Ben-Gurion University.
 
-In this repository, you'll find a diverse collection of projects I've worked on during my academic journey and personal time. I'm particularly interested in cybersecurity and its role in safeguarding modern software applications and systems. With each project, I aim to improve my understanding of secure coding practices and contribute to creating a more secure digital landscape.
+Currently, I work as a **Security & AI Researcher in collaboration with CBG & Boeing**, focusing on AI-driven cybersecurity, cloud threat modeling, multi-agent systems, and cyber threat intelligence.
 
-I'm open to collaboration and networking with like-minded individuals. So, whether you have questions, ideas, or just want to chat about tech or cybersecurity, don't hesitate to reach out. You can contact me via email at noamtarshish1@gmail.com or connect with me on LinkedIn www.linkedin.com/in/noamtarshish.
+## Research Interests
 
-Thanks for stopping by! 😊
+* Multi-Agent Systems
+* Threat Modeling
+* Cloud Security
+* Cyber Threat Intelligence (CTI)
+* Large Language Models (LLMs)
+* Detection Engineering
 
-<!---
-noamtarshish/noamtarshish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Publications
+
+📄 First author of multiple peer-reviewed research papers, including:
+
+* **ATMoCloud: Agentic Threat Modeling Framework for Cloud-based Applications**
+  Accepted at **IEEE ICWS 2026** (CORE A-ranked conference)
+
+* **IntelForge: Multi-Agent Framework for Cyber Threat Intelligence Enrichment**
+  Accepted at **WAITI 2025 (ACSAC Workshop)**
+
+* **SAFEdit: Does Multi-Agent Decomposition Resolve the Reliability Challenges of Instructed Code Editing?**
+  Accepted at **EQUISA 2025 (EASE Workshop)**
+
+This GitHub serves as a collection of my academic, research, and personal projects spanning cybersecurity, artificial intelligence, software engineering, and cloud technologies.
+
+## Connect With Me
+
+* Email: [noamtarshish1@gmail.com](mailto:noamtarshish1@gmail.com)
+
+* LinkedIn: linkedin.com/in/noamtarshish
+
+Thanks for visiting my profile! 
